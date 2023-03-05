@@ -154,29 +154,7 @@ export function validate() {
       e.preventDefault();
     });
 
-    // try{
-
-    //   form.addEventListener("submit", (e) => {
-    //       inputsForm.forEach(function (item) {
-    //         if (
-    //           item.dataset.type === "name" ||
-    //           item.dataset.type === "date" ||
-    //           item.dataset.type === "father" ||
-    //           item.dataset.type === "email" ||
-    //           item.dataset.type === "tel" ||
-    //           item.type === "password" ||
-    //           item.dataset.type === "rePassword" ||
-    //           item.dataset.type === "home"
-    //         ) {
-    //           inputValidate.apply(item);
-    //         }
-    //       });
-    //       e.preventDefault();
-    //     });
-    // }
-    // catch (e){
-
-    // }
+    
     // -------------------------localStorage-----------------------------------------
 
 
